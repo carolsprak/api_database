@@ -74,5 +74,5 @@ Para isso só utilizar os comandos abaixo.
 
 
 ##### Exemplos de Filtros
-http://localhost:3000/users/
-http://localhost:3000/users/?status=false
+- http://localhost:3000/users/
+- http://localhost:3000/users/?status=false
