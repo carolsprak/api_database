@@ -4,8 +4,8 @@
 
 Itens necessários:
 - Acesso a internet
--VsCode instalado
--Comandos prompt : cd , dir 
+- VsCode instalado
+- Comandos prompt : cd , dir 
 
 
 Baixe a pasta toda e extraia em seu computador
@@ -18,28 +18,32 @@ Baixe a pasta toda e extraia em seu computador
 * Abra a pasta extraída do github no VsCode (no link de referencia acima)
 * Abra o terminal do VsCode e insira os comando para criar o repositório na pasta:
 
-* > `git init`
-* > `git add .`
-* > `git commit -m "Iniciado projeto API e NodeJS"`
-* > `git remote (inserir comando para link de seu repositorio do github ex. https://github.com/carol/nome_repositorio.git)`
-* > `git branch -M main`
-* > `git push -u main`
+ `git init`
+ 
+ `git add .`
+ 
+ `git commit -m "Iniciado projeto API e NodeJS"`
+ 
+ `git remote (inserir comando para link de seu repositorio do github ex. https://github.com/carol/nome_repositorio.git)`
+ 
+ `git branch -M main`
+ 
+ `git push -u main`
 
 
 ### 2. Execute o servidor
 
-```bash
- Abra o prompt do windows (comando cmd) e abra a pasta extraída para seu computador (utilize o comando cd)
  
- Instale o servidor Json (API Local)
- ```
-  Comando> `npm install -g json-server`
+- Abrir a pasta do projeto que você baixou e acessar o terminal do VSCode 
+ 
+- Instale o servidor Json (API Local)
+  
+   `npm install -g json-server`
 
-  ```bash
-  Execute o servidor com a base de dados
-  ```
+   
+-  Execute o servidor com a base de dados
 
-  Comando> `json-server --watch database.json`
+   `json-server --watch database.json`
 
 ## Acessando servidor local
 
