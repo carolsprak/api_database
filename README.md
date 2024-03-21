@@ -18,12 +18,12 @@ Baixe a pasta toda e extraia em seu computador
 * Abra a pasta extraída do github no VsCode (no link de referencia acima)
 * Abra o terminal do VsCode e insira os comando para criar o repositório na pasta:
 
-* > `$git init`
-* > `$git add .`
-* > `$git commit -m "Iniciado projeto API e NodeJS"`
-* > `$git remote... (inserir comando para link de seu repositorio do github)`
-* > `$git branch -M main`
-* > `$git push -u main`
+* > `git init`
+* > `git add .`
+* > `git commit -m "Iniciado projeto API e NodeJS"`
+* > `git remote (inserir comando para link de seu repositorio do github ex. https://github.com/carol/nome_repositorio.git)`
+* > `git branch -M main`
+* > `git push -u main`
 
 
 ### 2. Execute o servidor
