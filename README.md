@@ -1,21 +1,12 @@
 # Simulação REST API NodeJS   -  ![Badge em Desenvolvimento](http://img.shields.io/static/v1?label=STATUS&message=%20CONCLUÍDO&color=GREEN&style=for-the-badge)
 
 
-
-Itens necessários:
-- Acesso a internet
-- VsCode instalado
-- Comandos prompt : cd , dir 
-
-
-Baixe a pasta toda e extraia em seu computador
-
 ## Começando
 
 ### 1. Crie e Clone este repositório
 
 * Abra o VSCode 
-* Abra a pasta extraída do github no VsCode (no link de referencia acima)
+* Abra a pasta extraída do github no VsCode (no link de referência acima)
 * Abra o terminal do VsCode e insira os comando para criar o repositório na pasta:
 
  `git init`
@@ -24,7 +15,7 @@ Baixe a pasta toda e extraia em seu computador
  
  `git commit -m "Iniciado projeto API e NodeJS"`
  
- `git remote (inserir comando para link de seu repositorio do github ex. https://github.com/carol/nome_repositorio.git)`
+ `git remote (inserir link de seu novo repositorio criado no github ex. https://github.com/carol/nome_repositorio.git)`
  
  `git branch -M main`
  
@@ -36,7 +27,7 @@ Baixe a pasta toda e extraia em seu computador
  
 - Abrir a pasta do projeto que você baixou e acessar o terminal do VSCode 
  
-- Instale o servidor Json (API Local)
+- Instale o servidor Json (API Local da sua máquina)
   
    `npm install -g json-server`
 
