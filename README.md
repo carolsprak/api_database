@@ -1,10 +1,9 @@
 # Simulação REST API NodeJS   -  ![Badge em Desenvolvimento](http://img.shields.io/static/v1?label=STATUS&message=%20CONCLUÍDO&color=GREEN&style=for-the-badge)
 
 
-## Começando
+### 1. Crie este repositório
 
-### 1. Crie e Clone este repositório
-
+* Faça o download do projeto
 * Abra o VSCode 
 * Abra a pasta extraída do github no VsCode (no link de referência acima)
 * Abra o terminal do VsCode e insira os comando para criar o repositório na pasta:
@@ -14,13 +13,12 @@
  `git add .`
  
  `git commit -m "Iniciado projeto API e NodeJS"`
- 
- `git remote (inserir link de seu novo repositorio criado no github ex. https://github.com/carol/nome_repositorio.git)`
- 
+
  `git branch -M main`
  
- `git push -u main`
+ `git remote add origin (inserir link de seu novo repositorio criado no github ex. https://github.com/seu_usuario/nome_repositorio.git)`
 
+ `git push -u origin main`
 
 ### 2. Execute o servidor
 
